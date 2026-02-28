@@ -62,12 +62,6 @@ Clone o repositório:
 git clone https://github.com/Zyofx64/Gerador.git
 cd Gerador
 ```
-Ou baixe apenas o arquivo:
-```
-wget https://raw.githubusercontent.com/Zyofx64/Gerador/main/generetor.py
-```
-
----
 
 🎮 Como Usar
 
