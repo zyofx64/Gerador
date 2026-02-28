@@ -141,20 +141,6 @@ Desenvolvimento
 
 Contribuições são bem-vindas!
 
-# 1. Fork o projeto
-
-# 2. Criar branch
-git checkout -b feature/nova-funcionalidade
-
-# 3. Commit
-git commit -m "Adiciona nova funcionalidade"
-
-# 4. Push
-git push origin feature/nova-funcionalidade
-
-Depois, abra um Pull Request.
-
-
 📝 Licença
 
 Este projeto está sob a licença MIT.
