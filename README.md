@@ -163,6 +163,4 @@ Consulte o arquivo LICENSE para mais detalhes.
 
 🌐 4devs.com.br pela API gratuita
 
-🐍 Comunidade Python
-
 ❤️ Todos os usuários e contribuidores
